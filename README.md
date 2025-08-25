@@ -1,4 +1,4 @@
-👩‍💻 **About Me
+👩‍💻 About Me
 - I’m Anjana Jose, a final-year MSc student in Econometrics and Financial Technology at Cochin University of Science and Technology (Centre for Budget Studies). I have a strong foundation in finance, econometrics, and statistical analysis, with practical skills in Python, Power BI, Excel, EViews, and Gretl. My work bridges data analytics and financial markets, aiming to solve real-world problems using a combination of quantitative modeling and technology.
 
 🎓 ## Education
@@ -9,7 +9,7 @@ BA in Economics
 Alphonsa College, Pala | 2021 – 2024
 Active NSS Volunteer 
 
-💼 ## Experience
+💼 #Experience#
 - Research Intern – Sharewealth Securities Ltd. (June – July 2025) : Gained practical exposure to equity & derivatives trading, IPO analysis, mutual fund execution, securitized debt instruments . Hands-on experience in client onboarding, regulatory compliance, and investment advisory operations.
 
 📊  ## Projects

@@ -39,5 +39,5 @@ My work bridges **data analytics and financial markets**, aiming to solve real-w
  
 
 ## 📫 Connect with Me  
-- **LinkedIn:** [linkedin.com/in/anjana-jose](https://linkedin.com/in/anjana-jose)  
+- **LinkedIn:** [linkedin.com/in/anjana-jose](www.linkedin.com/in/anjana-jose-)  
 - **GitHub:** [github.com/Anjana323](https://github.com/Anjana323)  

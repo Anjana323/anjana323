@@ -9,7 +9,7 @@ Key Highlights:
 * Deeper exploratory analysis with correlation and distribution visualizations.
 * Improved logistic regression model with scaling and cross-validation.
 * Evaluation using confusion matrix, ROC-AUC curve, and accuracy metrics.
-* Insights into feature importance and their contribution to loan default risk
+* Insights into feature importance and their contribution to loan default risk.
 
 Tools & Libraries:
 
@@ -179,9 +179,3 @@ scores = cross_val_score(model, X_train_scaled, y_train, cv=5, scoring='accuracy
 print(f'Cross-Validation Accuracy Scores: {scores}')
 print(f'Mean Accuracy: {scores.mean():.2f}')
 
-import seaborn as sns
-plt.figure(figsize=(10,6))
-sns.barplot(x='Coefficient', y='Feature', data=feature_importance.sort_values(by='Coefficient', ascending=False))
-plt.title("Logistic Regression Feature Importance")
-plt.tight_layout()
-plt.show()

@@ -64,7 +64,7 @@ Y_pred
 
 y_test
 
-#to evaluate performance
+#to evaluate performance of the data
 from sklearn.metrics import classification_report
 print(classification_report(Y_pred,y_test))
 
